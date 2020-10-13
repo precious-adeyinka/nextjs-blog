@@ -18,6 +18,7 @@
 .headerHomeImage {
   width: 8rem;
   height: 8rem;
+  box-shadow: 0 10px 20px 0 rgba(0,0,0,0.10);
 }
 
 .backToHome {
